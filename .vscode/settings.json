@@ -2,5 +2,6 @@
     "files.associations": {
         "*.cpp": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "editor.fontWeight": "bold"
 }
