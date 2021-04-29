@@ -22,8 +22,9 @@ void two_dim_array()
     }
     //ptr2 is a pointer to first element of arr. The first element of the array here is an array of 3 ints.
     int(*ptr2)[3] = arr;
-    //cout<<*(ptr2+1)<<endl;
+    cout<<*(*(ptr2+1)+1)<<endl;
     //cout<<(*ptr2+1)<<endl;
+    /* For loop for printing values using pointer.
     for (int i = 0; i < 2; i++)
     {
         for (int j = 0; j < 3; j++)
@@ -32,4 +33,5 @@ void two_dim_array()
         }
         cout << endl;
     }
+    */
 }

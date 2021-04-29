@@ -22,7 +22,7 @@ int main() {
     code A(50); // parameterized const.
     code B(A); // copy const.
     code C = A; // copy const. (Explicit way)
-    code D; // defalu const.
+    code D; // defalut const.
     D = A; // no copy const called as object was not initialized, it was created.
     return 0;
 }
