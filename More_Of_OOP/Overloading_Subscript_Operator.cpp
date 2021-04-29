@@ -3,11 +3,13 @@ using namespace std;
 
 class arr{
     int a[5];
+    int b;
     public: 
         arr(int *s) {
             for(int i =0;i<5; i++){
                 a[i] = *(s+i); // or s[i]
             }
+           // this->b = 5; // This keyword will be discussed later.
         }
         int operator[](int k){
             return (a[k]);
