@@ -1,8 +1,8 @@
 #Ignore every file
 *
-.vscode/*
+**/.vscode/
 ## Don't ignore directories, so we can recurse into them
-#!*/
+!*/
 #Except these file
 !*.cpp
 !*.gitignore
