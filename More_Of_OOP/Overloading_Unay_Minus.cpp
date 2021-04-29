@@ -39,7 +39,7 @@ using namespace std;
        //S.display();
        //Q = S + P;
        Q = operator+(S, P); // same as above
-       //Q.display();
+       Q.display();
        //-S;
        //cout<<"After using operloaded operator"<<endl;
        //S.display();
