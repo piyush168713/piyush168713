@@ -19,7 +19,8 @@ public:
     }
 };
 
-int main() {
+int main()
+{
     test obj1(4);
     test obj2(13);
     return 0;
