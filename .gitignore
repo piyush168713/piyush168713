@@ -4,4 +4,5 @@
 !*/
 #Except these file
 !*.cpp
+!*.c++
 !*.gitignore
