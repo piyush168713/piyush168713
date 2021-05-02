@@ -1,8 +1,9 @@
 #Ignore every file
 *
-## Don't ignore directories, so we can recurse into them
+# Don't ignore directories, so we can recurse into them
 !*/
 #Except these file
 !*.cpp
 !*.c++
 !*.gitignore
+random.cpp
