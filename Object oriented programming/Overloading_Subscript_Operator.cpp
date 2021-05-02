@@ -27,5 +27,6 @@ int main() {
     // Another way to access it.
     for(int i=0; i<5; i++){
         cout<<A[i]<<"\t";
+        //cout<<A.operator[](i)<<"\t"; // One and the same thing.
     }
 }
