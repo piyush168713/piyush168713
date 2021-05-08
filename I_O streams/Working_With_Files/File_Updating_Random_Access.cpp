@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include <cstring>
 #include <iomanip>
 
 using namespace std; // For sake of speed
@@ -12,11 +11,11 @@ class INVENTORY
     float cost;
 
 public:
-    void readData();
-    void writeData();
+    void setData();
+    void getData();
 };
 
-void INVENTORY::readData()
+void INVENTORY ::setData()
 {
     std::cout << "Enter Name: ";
     std::cin.getline(name, 10);
@@ -26,7 +25,7 @@ void INVENTORY::readData()
     std::cin >> cost;
 }
 
-void INVENTORY::writeData()
+void INVENTORY::getData()
 {
     cout << setiosflags(ios::left) << setw(10) << name << setw(10) << code << setw(5) << cost << '\n';
 }
@@ -42,27 +41,27 @@ int main()
     cout << "CURRENT CONTENTS OF STOCK" << '\n';
     while (inoutfile.read((char *)&item, sizeof(item)))
     {
-        item.writeData();
+        item.getData();
     }
-    inoutfile.clear(); // clears the flags.
-
+    inoutfile.clear(); // clears the eof state flag.
+    cout<<'\n'<<inoutfile.good()<<'\n';
     /* ADD more items */
 
     cout << "\nAdd an item: \n";
-    item.readData();
+    item.setData();
     char ch;
     cin.get(ch);
-    inoutfile.write((char *)&item, sizeof item);
+    inoutfile.write((char *)&item, sizeof(item));
+    cout<<'\n'<<inoutfile.good()<<'\n';
 
     // Display the append file
-
     inoutfile.seekg(0);
     cout << "CONTENTS OF APPENDED FILE\n";
     while (inoutfile.read((char *)&item, sizeof(item)))
     {
-        item.writeData();
+        item.getData();
     }
-
+    cout<<'\n'<<inoutfile.good()<<'\n';
     // Find the number of objects in the file.
 
     int last = inoutfile.tellg();
@@ -71,32 +70,33 @@ int main()
     cout << "Number of Objects: " << n << endl;
     cout << "Total bytes in file: " << last << endl;
 
-/* Modify the details of an item */
+    /* Modify the details of an item */
 
-    cout<<"Enter object number to be updated: ";
+    cout << "Enter object number to be updated: ";
     int object;
-    cin>>object;
+    cin >> object;
     cin.get(ch);
-    int location = (object-1) * sizeof(item);
+    int location = (object - 1) * sizeof(item);
 
-    if(inoutfile.eof()) {
+    if (inoutfile.eof())
+    {
         inoutfile.clear();
     }
     inoutfile.seekp(location);
-    cout<<"Enter the new values of objects \n";
-    item.readData();
+    cout << "Enter the new values of objects \n";
+    item.setData();
     cin.get(ch);
 
-    inoutfile.write((char*)&item, sizeof item) << flush;
+    inoutfile.write((char *)&item, sizeof item) << flush;
 
-/* SHOW UPDATED FILE */
-    cout<<"Contents of updated file: \n";
-    while(inoutfile.read((char*)&item, sizeof item)) {
-        item.writeData();
+    /* SHOW UPDATED FILE */
+    cout << "Contents of updated file: \n";
+    while (inoutfile.read((char *)&item, sizeof item))
+    {
+        item.getData();
     }
 
     inoutfile.close();
-
 
     return 0;
 }

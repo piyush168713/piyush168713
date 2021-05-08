@@ -12,11 +12,11 @@ class INVENTORY
     float cost;
 
 public:
-    void readData();
-    void writeData();
+    void setData();
+    void getData();
 };
 
-void INVENTORY::readData()
+void INVENTORY ::setData()
 {
     std::cout << "Enter Name: ";
     std::cin.getline(name, 10);
@@ -26,22 +26,21 @@ void INVENTORY::readData()
     std::cin >> cost;
 }
 
-void INVENTORY::writeData()
+void INVENTORY::getData()
 {
-    cout<<setiosflags(ios::left)<<setw(10)<<name << setw(10)<< code <<setw(5)<< cost<<'\n';
-
+    cout << setiosflags(ios::left) << setw(10) << name << setw(10) << code << setw(5) << cost << '\n';
 }
 
 int main()
 {
-    INVENTORY item[3];
+    INVENTORY item[2];
 
     fstream file;
-    file.open("STOCK.DAT", ios::in | ios::out);
+    file.open("STOCK.DAT", ios::in | ios::out|ios::trunc);
     cout << "Enter details for three items \n";
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < 2; i++)
     {
-        item[i].readData();
+        item[i].setData();
         file.write((char *)&item[i], sizeof(item[i]));
         getchar();
     }
@@ -49,9 +48,9 @@ int main()
     file.seekg(0);
 
     cout<<"\nOUTPUT\n\n";
-    for(int i=0; i<3; i++) {
+    for(int i=0; i<2; i++) {
         file.read((char *)&item[i], sizeof(item[i]));
-        item[i].writeData();
+        item[i].getData();
     }
     file.close();
     return 0;
