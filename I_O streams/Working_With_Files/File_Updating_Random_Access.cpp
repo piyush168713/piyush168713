@@ -52,16 +52,16 @@ int main()
     char ch;
     cin.get(ch);
     inoutfile.write((char *)&item, sizeof(item));
-    cout<<'\n'<<inoutfile.good()<<'\n';
+    cout<<'\n'<<inoutfile.good()<<'\n'; // All good till here.
 
     // Display the append file
-    inoutfile.seekg(0);
+    inoutfile.seekg(0); // All good till here.
     cout << "CONTENTS OF APPENDED FILE\n";
     while (inoutfile.read((char *)&item, sizeof(item)))
     {
         item.getData();
     }
-    cout<<'\n'<<inoutfile.good()<<'\n';
+    inoutfile.clear();
     // Find the number of objects in the file.
 
     int last = inoutfile.tellg();
@@ -87,10 +87,11 @@ int main()
     item.setData();
     cin.get(ch);
 
-    inoutfile.write((char *)&item, sizeof item) << flush;
+    inoutfile.write((char *)&item, sizeof item)<< flush; // flush all, keep nothing in buffer.
 
     /* SHOW UPDATED FILE */
     cout << "Contents of updated file: \n";
+    inoutfile.seekg(0, ios::beg);
     while (inoutfile.read((char *)&item, sizeof item))
     {
         item.getData();
