@@ -1,5 +1,7 @@
-# Cpp
-
-These are my C++ exercises, examples and concepts from the book "Object Oriented Programming with C++" by E Balagurusamy.
-
-These are like my notes in which I have covered concepts of C++, I have used comments to explain something that may sound peculiar to you. 
+### Heyy, me Piyush✌
+<a href="https://www.hackerrank.com/kumarpiyush25777">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
+</a> 
+<a href="https://www.linkedin.com/in/piyush-kumar-28958b200">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
+</a>
