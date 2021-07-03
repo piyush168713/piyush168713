@@ -8,6 +8,6 @@
 <a href="https://www.instagram.com/piyush168713">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
 </a>
-<a href="https://www.gmail.com/kumarpiyush25777">
+<a href="https://www.gmail.com/kumarpiyush25777@gmail.com">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
