@@ -13,7 +13,4 @@
   </a> 
   
   ### Languages
-  
-    <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
+ <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
