@@ -37,7 +37,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush168713&layout=compact&theme=highcontrast&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush168713&hide_border=true&theme=highcontrast)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=radical&hide_border=true)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=highcontrast&hide_border=true)]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713)](https://github.com/gkhan205/github-profile-trophy)
 
