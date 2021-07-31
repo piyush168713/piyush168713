@@ -35,7 +35,7 @@
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&hide_border=true&theme=highcontrast)
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&title_color=FFFF00&icon_color=1E90FF&text_color=7CFC00&bg_color=000000&show_icons=true)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&title_color=FFFF00&icon_color=00FFFF&text_color=7CFC00&bg_color=000000&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush168713&layout=compact&theme=highcontrast&hide_border=true)
 
