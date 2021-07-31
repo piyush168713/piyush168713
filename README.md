@@ -33,7 +33,7 @@
 
 ### Stats 📊
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&hide_border=true&theme=highcontrast)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush&show_icons=true&hide_border=true&theme=highcontrast)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=piyush168713&title_color=1E90FF&icon_color=1E90FF&text_color=7CFC00&bg_color=000000&show_icons=true)
 
