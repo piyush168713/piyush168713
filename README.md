@@ -46,7 +46,7 @@
 
 
 <!-- TOOLS -->
-<!--
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -118,7 +118,7 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 </p>
--->
+
 ### 💻 Software and tools
 
 <p>
