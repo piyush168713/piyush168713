@@ -261,14 +261,14 @@
     
   
   ### Languages
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="C" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
+ <img src="svg/dev/languages/csharp.svg" alt="C" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
+ <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
+ <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
+<img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
+<img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
+<img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
+<img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
+<img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">&nbsp; &nbsp; 
 <img src="https://www.tinkercad.com/favicon.ico" height="30"> &nbsp; &nbsp;
 <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px"> 
