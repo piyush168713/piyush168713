@@ -17,6 +17,9 @@
   <a href="https://outlook.office365.com/mail/inbox">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
   </a>  
+  <a href="https://stackoverflow.com/users/16583145/piyush-kumar">
+    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+  </a>
   
   
   
