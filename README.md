@@ -304,7 +304,8 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=highcontrast&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713)](https://github.com/gkhan205/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713)](https://github.com/gkhan205/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- TOOLS -->
