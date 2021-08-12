@@ -19,7 +19,7 @@
   <a href="https://twitter.com/Piyush168713/">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>    
-  <a href="https://outlook.office365.com/mail/inbox">
+  <a href="mailto:20BCS9107@cuchd.in">
     <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="https://stackoverflow.com/users/16583145/piyush-kumar">
