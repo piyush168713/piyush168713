@@ -19,6 +19,9 @@
   <a href="https://twitter.com/Piyush168713/">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>    
+  <a href="https://msng.link/o/?piyush168713=tg">
+    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+  </a>
   <a href="mailto:20BCS9107@cuchd.in">
     <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
   </a>  
