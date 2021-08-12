@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/piyush168713">
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox">
+<a href="mailto:kumarpiyush25777@gmail.com">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="https://twitter.com/Piyush168713/">
