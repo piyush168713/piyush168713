@@ -1,4 +1,4 @@
-### Heyy, me Piyush✌
+### Heyy, it's me Piyush ✌
 
 <a href="https://www.hackerrank.com/piyush168713">
     <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
@@ -138,10 +138,6 @@
 
 </p>
 
-
-
-
-
 ## Devices / Manufacturers
 
 <p align="left">
@@ -266,16 +262,8 @@
 </p>
 </p>
 -->
-    
-    
-    
-    
-    
-    
-    
-    
   
-  ### Languages
+  ### Check Out the Languages and tech I know:
  <!--  <img src="svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top margin:0.0000000000000001px 0.0000000000000001px">  -->
  <img src="svg/dev/languages/csharp.svg" alt="C" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
@@ -287,20 +275,20 @@
 <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">&nbsp; &nbsp; 
 <img src="https://www.tinkercad.com/favicon.ico" height="30"> &nbsp; &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px"> 
+<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px" height="35"> 
 <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
 
-
+---------------------------------
 <!--### Pass
 -->
 - 🌱 I’m currently learning new things.
-- Working on google colab notebook
-- Working on Datasets of Python
-- Working on C++
-- Working on Advance Engineering Mathematics
-- 😄 Pronouns: He/Him
+- Working on google colab notebook.
+- Working on Datasets of Python.
+- Working on C++.
+- Working on Advance Engineering Mathematics.
+- 😄 Pronouns: He/Him.
 
-### Stats 📊
+### Stats 📊:
 
 <!--
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&hide_border=true&theme=highcontrast)
