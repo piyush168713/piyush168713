@@ -1,4 +1,6 @@
+<h1 align="center">
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Piyush
+</h1>
 
 ## Connect With Me <a target="_blank"><img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
     
@@ -808,10 +810,10 @@
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=piyush168713&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---------------------------------------------------------------------------------------------------------------------------
-
+<h1 align="center">
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) 
 <img src="svg/welcome-contributors.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
-
+</h1>
 <!-- PROFILE VIEWS -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyush168713&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
