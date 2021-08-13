@@ -277,7 +277,7 @@
     
     
   
-  `Languages`
+## Languages
  <!--  <img src="svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top margin:0.0000000000000001px 0.0000000000000001px">  -->
  <img src="svg/dev/languages/csharp.svg" alt="C" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
@@ -297,7 +297,7 @@
 -->
 
 
-### My🌟BEST🌟 Works:
+## My🌟BEST🌟 Works:
 
 > Take a Look... 😁
 - [Personal-Portfolio](https://github.com/piyush168713/Personal-Portfolio.git)
@@ -308,7 +308,7 @@
 
 
 
-### Recents
+## Recents
 - 🌱 I’m currently learning new things.
 - Working on google colab notebook
 - Working on Datasets of Python
@@ -317,7 +317,7 @@
 - 😄 Pronouns: He/Him
 
 
-### Stats 📊
+## Stats 📊
 
 <!--
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&hide_border=true&theme=highcontrast)
