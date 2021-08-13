@@ -315,8 +315,6 @@
 - 😄 Pronouns: He/Him
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-
 ### Stats 📊
 
 <!--
@@ -806,6 +804,8 @@
 
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=piyush168713&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 <!-- PROFILE VIEWS -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyush168713&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
