@@ -322,9 +322,9 @@
 -->
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush168713&layout=compact&theme=highcontrast&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush168713&layout=compact&theme=react-dark)&hide_border=true)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=highcontrast&hide_border=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=react-dark)&hide_border=true)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713)](https://github.com/gkhan205/github-profile-trophy)-->
 
@@ -332,7 +332,7 @@
 
 
 <!-- TOOLS -->
-<!--
+<!--   highcontrast
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
