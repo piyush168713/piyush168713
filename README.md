@@ -1,6 +1,6 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Piyush
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Piyush
 
-# Connect With Me <a target="_blank">
+[Connect With Me <a target="_blank">]
 <a href="https://www.hackerrank.com/piyush168713">
     <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
 </a> 
