@@ -293,10 +293,11 @@
 
 <!--### Pass
 -->
+> Take a Look... 😁
 - 🌱 I’m currently learning new things.
 - Working on google colab notebook
 - Working on Datasets of Python
-- Working on [C++!](https://github.com/piyush168713/cpp-tutorials.git)
+- Working on [C++](https://github.com/piyush168713/cpp-tutorials.git)
 - Working on Advance Engineering Mathematics
 - 😄 Pronouns: He/Him
 
