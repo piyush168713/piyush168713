@@ -279,7 +279,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
     
     
   
-## Languages
+## Languages <a target="_blank"><img src="svg/dev/languages/lang.jpg" height="32px" style="max-width:100%;">
  <!--  <img src="svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top margin:0.0000000000000001px 0.0000000000000001px">  -->
  <img src="svg/dev/languages/csharp.svg" alt="C" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
