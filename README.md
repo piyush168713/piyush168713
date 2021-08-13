@@ -1,5 +1,13 @@
+
 ### Heyy, it's me Piyush ✌
 
+<h1 align="center">
+Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
+</h1>
+
+
+## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
+    
 <a href="https://www.hackerrank.com/piyush168713">
     <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
 </a> 
@@ -263,7 +271,11 @@
 </p>
 -->
   
+
   ### Check Out the Languages and tech I know:
+
+## Languages <a target="_blank"><img src="svg/dev/languages/lang.jpg" height="25px" style="max-width:100%;">
+
  <!--  <img src="svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top margin:0.0000000000000001px 0.0000000000000001px">  -->
  <img src="svg/dev/languages/csharp.svg" alt="C" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
@@ -275,12 +287,33 @@
 <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">&nbsp; &nbsp; 
 <img src="https://www.tinkercad.com/favicon.ico" height="30"> &nbsp; &nbsp;
+
 <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px" height="35"> 
 <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
 
 ---------------------------------
+
+<img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px" height="35"> 
+    
+---------------------------------------------------------------------------------------------------------------------------
+
 <!--### Pass
 -->
+
+
+## My🌟BEST🌟 Works:
+
+> Take a Look... 😁
+- [Personal-Portfolio](https://github.com/piyush168713/Personal-Portfolio.git)
+- [C++ Tutorials](https://github.com/piyush168713/cpp-tutorials.git)
+- [cpp Notes](https://github.com/piyush168713/cpp.git)
+- [Coloured-Badges](https://github.com/piyush168713/ColoredBadges.git)
+- [ML-For-Beginners](https://github.com/piyush168713/ML-For-Beginners.git)
+
+
+
+## Recents
 - 🌱 I’m currently learning new things.
 - Working on google colab notebook.
 - Working on Datasets of Python.
@@ -289,14 +322,22 @@
 - 😄 Pronouns: He/Him.
 
 ### Stats 📊:
+- Working on google colab notebook
+- Working on Datasets of Python
+- Working on [C++](https://github.com/piyush168713/cpp-tutorials.git)
+- Working on Advance Engineering Mathematics
+- 😄 Pronouns: He/Him
 
+
+## Stats 📊
 <!--
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&hide_border=true&theme=highcontrast)
 -->
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush168713&layout=compact&theme=highcontrast&hide_border=true)
-
+<br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=highcontrast&hide_border=true)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713)](https://github.com/gkhan205/github-profile-trophy)-->
@@ -305,7 +346,7 @@
 
 
 <!-- TOOLS -->
-<!--
+<!--   
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -773,8 +814,16 @@
 
 ##
 <!-- ACTIVITY GRAPH -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img  alt="piyush168713's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=piyush168713&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img  alt="piyush168713's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=piyush168713&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>-->
 
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=piyush168713&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+<img src="svg/open-source.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">  
+<img src="svg/welcome-contributors.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
+<img src="svg/check-it-out.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
 <!-- PROFILE VIEWS -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyush168713&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
