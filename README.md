@@ -1,6 +1,10 @@
+
+### Heyy, it's me Piyush ✌
+
 <h1 align="center">
 Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 </h1>
+
 
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
     
@@ -142,10 +146,6 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 
 </p>
 
-
-
-
-
 ## Devices / Manufacturers
 
 <p align="left">
@@ -270,16 +270,12 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 </p>
 </p>
 -->
-    
-    
-    
-    
-    
-    
-    
-    
   
+
+  ### Check Out the Languages and tech I know:
+
 ## Languages <a target="_blank"><img src="svg/dev/languages/lang.jpg" height="25px" style="max-width:100%;">
+
  <!--  <img src="svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top margin:0.0000000000000001px 0.0000000000000001px">  -->
  <img src="svg/dev/languages/csharp.svg" alt="C" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
@@ -291,10 +287,17 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">&nbsp; &nbsp; 
 <img src="https://www.tinkercad.com/favicon.ico" height="30"> &nbsp; &nbsp;
+
+<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px" height="35"> 
+<img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+
+---------------------------------
+
 <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
 <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px" height="35"> 
     
 ---------------------------------------------------------------------------------------------------------------------------
+
 <!--### Pass
 -->
 
@@ -312,6 +315,13 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 
 ## Recents
 - 🌱 I’m currently learning new things.
+- Working on google colab notebook.
+- Working on Datasets of Python.
+- Working on C++.
+- Working on Advance Engineering Mathematics.
+- 😄 Pronouns: He/Him.
+
+### Stats 📊:
 - Working on google colab notebook
 - Working on Datasets of Python
 - Working on [C++](https://github.com/piyush168713/cpp-tutorials.git)
@@ -320,7 +330,6 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 
 
 ## Stats 📊
-
 <!--
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&hide_border=true&theme=highcontrast)
 -->
