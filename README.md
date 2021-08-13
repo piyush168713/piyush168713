@@ -1,6 +1,3 @@
-
-### Heyy, it's me Piyush ✌
-
 <h1 align="center">
 Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 </h1>
@@ -272,7 +269,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 -->
   
 
-  ### Check Out the Languages and tech I know:
+  <!--### Check Out the Languages and tech I know:-->
 
 ## Languages <a target="_blank"><img src="svg/dev/languages/lang.jpg" height="25px" style="max-width:100%;">
 
@@ -291,10 +288,10 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px" height="35"> 
 <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
 
----------------------------------
+<!-- ---------------------------------
 
 <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px" height="35"> 
+<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px" height="35"> -->
     
 ---------------------------------------------------------------------------------------------------------------------------
 
