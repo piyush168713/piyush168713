@@ -318,7 +318,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 - Working on Advance Engineering Mathematics.
 - 😄 Pronouns: He/Him.
 
-### Stats 📊:
+
 - Working on google colab notebook
 - Working on Datasets of Python
 - Working on [C++](https://github.com/piyush168713/cpp-tutorials.git)
