@@ -309,7 +309,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 - [Coloured-Badges](https://github.com/piyush168713/ColoredBadges.git)
 - [ML-For-Beginners](https://github.com/piyush168713/ML-For-Beginners.git)
 
-
+<img align="right" height="250" width="375" alt="" src="coder.gif" />
 
 ## Recents
 - 🌱 I’m currently learning new things.
