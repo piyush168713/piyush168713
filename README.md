@@ -302,7 +302,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 <!--### Pass
 -->
 
-<img align="right" height="250" width="375" alt="" src="svg/coder.gif"/>
+<img align="right" height="250" width="375" alt="" src="svg/comp.gif"/>
 
 ## My🌟BEST🌟 Works:
 
