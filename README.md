@@ -5,7 +5,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
     
-<a href="https://www.hackerrank.com/iyush168713">
+<a href="https://www.hackerrank.com/piyush168713">
     <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
 </a> 
 
