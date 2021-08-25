@@ -318,9 +318,10 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 ## Recents
 - 🌱 I’m currently learning new things.
 - 🤔 Working on google colab notebook.
-- 🌱 Working on Datasets of Python.
 - 🔭 Working on [C++](https://github.com/piyush168713/cpp-tutorials.git)
-- ⚡ Working on Advance Engineering Mathematics.
+- ⚡ Currently learning basics of java.
+<!--- 🌱 Working on Datasets of Python.
+- ⚡ Working on Advance Engineering Mathematics.-->
 - 😄 Pronouns: He/Him.
 
 
