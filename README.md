@@ -309,7 +309,6 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 
 > Take a Look... 😁
 - [Personal-Portfolio](https://github.com/piyush168713/Personal-Portfolio.git)
-<!-- - [Birthday-1](https://github.com/piyush168713/haPpY-biRThDaY.git)-->
 - [Birthday](https://github.com/piyush168713/Happy-birthday-1.git)
 - [C++ Tutorials](https://github.com/piyush168713/cpp-tutorials.git)
 - [cpp Notes](https://github.com/piyush168713/cpp.git)
