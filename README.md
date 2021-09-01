@@ -13,7 +13,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
     <img src="svg/social/linkedin.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://www.instagram.com/piyush.168713">
+<a href="https://www.instagram.com/piyush168713">
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
 </a>
 
