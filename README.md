@@ -818,7 +818,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 <img src="svg/open-source.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">  
 <img src="svg/welcome-contributors.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
 <img src="svg/check-it-out.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
