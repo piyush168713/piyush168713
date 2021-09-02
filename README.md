@@ -340,7 +340,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713)](https://github.com/gkhan205/github-profile-trophy)-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713&theme=discord)]
 
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=piyush168713&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
