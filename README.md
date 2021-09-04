@@ -322,7 +322,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 - 👨🏽‍💻 I'm currently working in <a href="https://dotnet.microsoft.com/">.NET 5</a> !
 - 🧐 trying to learn every new technology 😂
 - 🥅 2021 Goals: Contribute to more projects and expand my knowledge.
-- 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe
+- 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>
 - 😄 Pronouns: He/Him.
 
 
