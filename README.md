@@ -830,9 +830,9 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-<p align="center">
+<h3 align="center">
     👾 Leave a <em>comment</em> on <a href="https://github.com/piyush168713/piyush168713/issues/2">this issue</a> to get featured on my <code>Cyberspace</code> 👾
-</p>
+</h3>
 
  
 
