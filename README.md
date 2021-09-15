@@ -330,6 +330,13 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 
 
 ## Stats 📊
+    <p align="center">
+<a href="https://github.com/PulkitSinghDev">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&theme=tokyonight" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush168713&count_private=true&theme=tokyonight" />
+</a>
+</p>
+    
 <!--
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&hide_border=true&theme=highcontrast)
 -->
