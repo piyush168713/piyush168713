@@ -345,11 +345,11 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 ![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713&theme=discord)
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=piyush168713&theme=react-dark)
-    <!--
-<p align="center">   
+   
+ <!--<p align="center">   
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=highcontrast&hide_border=true"/>
-</p>
--->
+</p>-->
+
 <!-- TOOLS -->
 <!--   
 ## 🛠️ My favorite tools
