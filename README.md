@@ -6,13 +6,6 @@
 Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 </h1>
 
-<select>
-    <option value="Los Angeles">Los Angeles</option>
-    <option value="Los Vegas">Los Vegas</option>
-    <option value="New Delhi">New Delhi</option>
-</select>
-
-
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
     
 <a href="https://www.hackerrank.com/piyush168713">
