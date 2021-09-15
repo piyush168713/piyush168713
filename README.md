@@ -13,38 +13,38 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 </a> 
 
 <a href="https://www.linkedin.com/in/piyush-kumar-28958b200">
-    <img src="svg/social/linkedin.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
+    <code><img src="svg/social/linkedin.svg" alt="gitter" style="vertical-align:top; margin:6px 4px"><code>
 </a>
 
 <a href="https://www.instagram.com/piyush168713">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    <code><img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"><code>
 </a>
 
 <a href="https://wa.link/5m7el2">
-<img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+<code><img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px"><code>
 </a>
 
 <a href="mailto:kumarpiyush25777@gmail.com">
-    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+    <code><img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px"><code>
   </a> 
   
   <a href="https://twitter.com/Piyush168713/">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+    <code><img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px"><code>
   </a>   
   
   <a href="https://t.me/Piyush168713">
-    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+    <code><img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px"><code>
   </a>
   
   <a href="mailto:20BCS9107@cuchd.in">
-    <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
+    <code><img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px"><code>
   </a>  
   
   <a href="https://stackoverflow.com/users/16583145/piyush-kumar">
-    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+    <code><img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px"><code>
   </a>
     
- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/piyush.sona168713/)
+ <code>[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/piyush.sona168713/)<code>
     
     
 <!---------------------------------------------------------------------------------------------------------------------------------------------------
