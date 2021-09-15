@@ -838,5 +838,5 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 </h2>
 
 <h3 align="center">
-    <marquee>Thank You!!!</marquee>
+    <marquee><em>Thank You!!!</em></marquee>
 </h3>
