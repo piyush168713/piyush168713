@@ -346,7 +346,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 <br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=highcontrast&hide_border=true)
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713)](https://github.com/gkhan205/github-profile-trophy)-->
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713)]-->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713&theme=discord)
 
