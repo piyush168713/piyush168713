@@ -333,7 +333,8 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 <!--
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&hide_border=true&theme=highcontrast)
 -->
-
+<p align="center">
+    
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush168713&layout=compact&theme=highcontrast&hide_border=true)
@@ -345,7 +346,7 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 ![trophy](https://github-profile-trophy.vercel.app/?username=piyush168713&theme=discord)
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=piyush168713&theme=react-dark)
-    
+    </p>
 <!-- TOOLS -->
 <!--   
 ## 🛠️ My favorite tools
