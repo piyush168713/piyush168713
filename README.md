@@ -330,19 +330,18 @@ Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
 
 
 ## Stats 📊
-    <p align="center">
-<a href="https://github.com/PulkitSinghDev">
+<!--    <p align="center">
+<a href="https://github.com/piyush168713">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&theme=tokyonight" />
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush168713&count_private=true&theme=tokyonight" />
 </a>
-</p>
+</p>-->
     
 <!--
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&hide_border=true&theme=highcontrast)
 -->
     
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush168713&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush168713&layout=compact&theme=highcontrast&hide_border=true)
 <br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=highcontrast&hide_border=true)
