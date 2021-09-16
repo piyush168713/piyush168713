@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
+    Hey <img src="svg/Hi.gif" width="29px">, I'm <em>Piyush</em>
 </h1>
 
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
