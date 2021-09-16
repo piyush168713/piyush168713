@@ -4,11 +4,6 @@
 
 <h1 align="center">
 Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
-<style>
-    h1 {
-     color : red;
-    }
-</style>
 </h1>
 
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
