@@ -31,7 +31,7 @@
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>   
   
-  <a href="https://msng.link/o/?piyush168713=tg">
+  <a href="https://msng.link/o/?Piyush168713=tg">
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>
   
