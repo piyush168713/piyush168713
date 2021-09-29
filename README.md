@@ -806,7 +806,7 @@
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
  
-<img src="svg/welcome-contributors.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
+&nbsp; &nbsp;<img src="svg/welcome-contributors.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
  
 <img src="svg/check-it-out.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/open-source.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
 <!-- PROFILE VIEWS -->
