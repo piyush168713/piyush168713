@@ -805,7 +805,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-<img src="svg/check-it-out.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
+<img src="svg/check-it-out.svg" alt="welcome" style="vertical-align:top; margin:6px 4px"><br>
 <img src="svg/welcome-contributors.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
 <img src="svg/open-source.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
 <!-- PROFILE VIEWS -->
