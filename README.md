@@ -805,7 +805,8 @@
 ---------------------------------------------------------------------------------------------------------------------------
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-&nbsp; &nbsp;  <img src="svg/open-source.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">  &nbsp; &nbsp;  <img src="svg/welcome-contributors.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/check-it-out.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
+&nbsp; &nbsp;  <img src="svg/open-source.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">  
+<img src="svg/welcome-contributors.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/check-it-out.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
 <!-- PROFILE VIEWS -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyush168713&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
