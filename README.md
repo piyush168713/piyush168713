@@ -820,6 +820,6 @@
     👾 Leave a <em>comment</em> on <a href="https://github.com/piyush168713/piyush168713/issues/2">this issue</a> to get featured on my <code>Cyberspace</code> 👾
 </h2>
 
-<h3 align="center">
+<h2 align="center">
     <code><em>Thank You!!!</em></code>
 </h3>
