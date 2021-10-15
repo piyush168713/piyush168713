@@ -821,7 +821,7 @@
 </h2>
 
  <h2 align="center">
-  <a href="https://github.com/piyush168713/piyush168713/blob/main/png/dev/languages/csharp.png">
+  <a href="https://github.com/piyush168713/piyush168713/blob/main/help/payment.png">
     <img src="https://github.com/piyush168713/piyush168713/blob/main/png/click.jpg" alt="Donate Now" style="vertical-align:top; margin:6px 4px" height="40">
 </h3>
  
