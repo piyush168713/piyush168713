@@ -285,12 +285,12 @@
 - [Personal-Portfolio](https://github.com/piyush168713/Personal-Portfolio.git)
 - [Birthday](https://github.com/piyush168713/Happy-birthday-1.git)
 - [C++ Tutorials](https://github.com/piyush168713/cpp-tutorials.git)
-- [cpp Notes](https://github.com/piyush168713/cpp.git)
 - [Coloured-Badges](https://github.com/piyush168713/ColoredBadges.git)
-<!-- - [ML-For-Beginners](https://github.com/piyush168713/ML-For-Beginners.git)-->
-- Contributed in [#1559](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1559)
+- contributed on [#846](https://github.com/TheAlgorithms/C/pull/846)
+- Contributed on [#1559](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1559)
 - Contributed on [#6](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/pull/6) 
-
+<!--- [cpp Notes](https://github.com/piyush168713/cpp.git)
+ - [ML-For-Beginners](https://github.com/piyush168713/ML-For-Beginners.git)-->
 
 
 
