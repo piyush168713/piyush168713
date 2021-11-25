@@ -288,6 +288,7 @@
 - [cpp Notes](https://github.com/piyush168713/cpp.git)
 - [Coloured-Badges](https://github.com/piyush168713/ColoredBadges.git)
 - [ML-For-Beginners](https://github.com/piyush168713/ML-For-Beginners.git)
+- Contributed on [#6](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/pull/6) 
 
 
 
