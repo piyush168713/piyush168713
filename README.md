@@ -299,8 +299,8 @@
 - 🧐 trying to learn every new technology
 - 🥅 2021 Goals: Contribute to more projects and expand my knowledge.
 - 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>
- (#smileys--emotion) | :smiling_face_with_three_hearts: | `:smiling_face_with_three_hearts:`
--  Pahad ❤️❤️
+   
+- :smiling_face_with_three_hearts: Pahad ❤️❤️
 - 😄 Pronouns: He/Him.
 
 
