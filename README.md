@@ -300,7 +300,7 @@
 - 🥅 2021 Goals: Contribute to more projects and expand my knowledge.
 - 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>
    
-- :smiling_face_with_three_hearts: Pahad ❤️❤️
+- :mountain_snow: Pahad ❤️❤️
 - 😄 Pronouns: He/Him.
 
 
