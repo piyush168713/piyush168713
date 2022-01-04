@@ -1,5 +1,5 @@
  <!-- piyush168713 is a special repository: its README.md will appear on your profile! -->
-
+ 
 
 <h1 align="center">
     <em>Hey</em> <img src="svg/Hi.gif" width="29px">, <em>I'm Piyush</em>
@@ -301,7 +301,7 @@
 - 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>
    
 - :mountain_snow: Pahad ❣️:heavy_heart_exclamation:
-- 😄 :smiling_face_with_heart-eyes: Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
 
 
