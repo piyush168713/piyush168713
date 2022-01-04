@@ -301,7 +301,7 @@
 - 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>
    
 - :mountain_snow: Pahad ❣️:heavy_heart_exclamation:
-- 😄 Pronouns: He/Him:smiling face with heart-eyes:
+- 😄 :smiling face with heart-eyes: Pronouns: He/Him
 
 
 
