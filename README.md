@@ -429,7 +429,7 @@
       <br>Next JS
     </td>
              <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
+      <a href="#piyush168713" >
         <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
       </a>
       <br>G Cloud
