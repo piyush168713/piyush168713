@@ -475,7 +475,7 @@
 
 
 ## Recents- 
-- 👨🏽‍💻 I'm currently working in -----
+- 👨🏽‍💻 I'm currently learning new stuffs.
 - 🧐 trying to learn every new technology
 - 🥅 2021 Goals: Contribute to more projects and expand my knowledge.
 - 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>
