@@ -348,12 +348,12 @@
       </a>
       <br>Electron
     </td>
- <!--   <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#piyush168713">
-        <img src="#" width="48" height="48" alt="Firebase" />
+        <img src="svg/dev/languages/java.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Firebase
-    </td>   -->
+      <br>Java
+    </td>   
     <td align="center"  width="96">
       <a href="#piyush168713">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
