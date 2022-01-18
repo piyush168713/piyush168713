@@ -348,7 +348,7 @@
       </a>
       <br>Electron
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#piyush168713">
         <img src="svg/dev/languages/java.svg" width="48" height="48" alt="Java" />
       </a>
