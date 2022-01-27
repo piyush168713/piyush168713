@@ -34,7 +34,10 @@
 <a href="https://www.buymeacoffee.com/piyush168713" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
   -->
   
-<!--  ## Social & Professional 
+ 
+ 
+<!--  
+## Social & Professional 
 <p align="left">
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/angellist.svg" alt="angellist" style="vertical-align:top; margin:6px 4px">
@@ -110,12 +113,12 @@
   </a>  
 
 </p>
+-->
 
 
 
 
-
-
+<!--
 ## Pronouns 
 <p align="left">
   <a href="#">
@@ -132,7 +135,11 @@
   </a>  
 
 </p>
+-->
+ 
 
+
+<!--
 ## Devices / Manufacturers
 
 <p align="left">
@@ -172,10 +179,11 @@
   <a href="#">
     <img src="svg/devices/xbox.svg" alt="xbox" style="vertical-align:top; margin:6px 4px">
   </a>  
+-->
 
 
 
-
+<!--
 ### Languages 
 
 <p align="left">
@@ -550,7 +558,7 @@
 
 
 
-<!--
+
 ### 🧰 Frameworks and libraries
 
 <p>
@@ -670,7 +678,6 @@
     <img src="svg/dev/frameworks/xamarin_mac.svg" alt="xamarin_mac" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
--->
 
 
 
