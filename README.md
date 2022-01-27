@@ -546,7 +546,11 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
+-->
 
+
+
+<!--
 ### 🧰 Frameworks and libraries
 
 <p>
@@ -666,7 +670,12 @@
     <img src="svg/dev/frameworks/xamarin_mac.svg" alt="xamarin_mac" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
+-->
 
+
+
+
+<!--
 ### 🗄️ Databases and cloud hosting
 
 <p>
@@ -681,7 +690,10 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 </p>
+-->
 
+
+<!--
 ### 💻 Software and tools
 
 <p>
@@ -799,11 +811,12 @@
   <a href="#">
     <img src="svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:6px 4px">
   </a> 
-</p>
+</p>    -->
 
 
 
 
+<!--
 ### Services 
 <p align="left">
   <a href="#">
@@ -870,10 +883,10 @@
   <a href="#">
     <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
   </a> 
-
+-->
   
 
-
+<!--
 
 ### Misc
 <p align="left">
@@ -938,10 +951,10 @@
    <a href="#">
     <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
   </a>  
-</p>
+</p>  -->
 
 
-
+<!--
 
 ## Blogging Platforms
 <p align="left">
