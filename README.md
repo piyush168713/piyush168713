@@ -9,7 +9,7 @@
     
 <a href="https://www.hackerrank.com/piyush168713">
     <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <a href="https://www.linkedin.com/in/piyush-kumar-28958b200">
-    <img src="svg/social/linkedin.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:6px 4px">
 </a>&nbsp; &nbsp;  <a href="https://www.instagram.com/piyush168713/">
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
 </a>&nbsp; &nbsp;  <a href="https://wa.link/5m7el2">
