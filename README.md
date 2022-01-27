@@ -824,7 +824,7 @@
 
 
 
-
+<!--
 ### Services 
 <p align="left">
   <a href="#">
@@ -890,7 +890,7 @@
 
   <a href="#">
     <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a> -->
 
   
 
