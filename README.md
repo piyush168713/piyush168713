@@ -16,15 +16,15 @@
 <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
 </a>&nbsp; &nbsp;  <a href="mailto:kumarpiyush25777@gmail.com">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>&nbsp; &nbsp;  <a href="https://stackoverflow.com/users/16583145/piyush-kumar">
-    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>&nbsp; &nbsp; <a href="https://twitter.com/Piyush168713/">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>&nbsp; &nbsp;  <a href="https://t.me/Piyush168713">
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>&nbsp; &nbsp;  <a href="mailto:20BCS9107@cuchd.in">
     <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
-  </a>&nbsp; &nbsp;  
+  </a>&nbsp; &nbsp;  <a href="https://stackoverflow.com/users/16583145/piyush-kumar">
+    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+  </a>
  
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/piyush1687/)
     
