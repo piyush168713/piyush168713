@@ -1024,10 +1024,10 @@
     👾 Leave a <em>comment</em> on <a href="https://github.com/piyush168713/piyush168713/issues/2">this issue</a> to get featured on my <code>Cyberspace</code> 👾
 </h2>
 
- <h2 align="center">
+ <!-- <h2 align="center">
   <a href="https://github.com/piyush168713/piyush168713/blob/main/help/payment.png">
     <img src="https://github.com/piyush168713/piyush168713/blob/main/png/click.jpg" alt="Donate Now" style="vertical-align:top; margin:6px 4px" height="40">
-</h2>
+</h2>  -->
  
  
 <h2 align="center">
