@@ -2,6 +2,7 @@
  
  
  
+ 
 <h1 align="center">
     <em>Hey</em> <img src="svg/Hi.gif" width="29px">, <em>I'm Piyush</em>
 </h1>
