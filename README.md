@@ -484,8 +484,8 @@
 
 ## Recents- 
 - 👨🏽‍💻 I'm currently learning new stuffs.
-- 🧐 trying to learn every new technology
-- 🥅 2022 Goals: Contribute to more projects and expand my knowledge.
+- 🧐 exploring the things.
+- 🥅 2022 Goals: Contribute to more projects and expand my knowledge
 - 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>  
  - 😄 Pronouns: He/Him
 <!--- :mountain_snow: Pahad ❣️:heavy_heart_exclamation:-->
