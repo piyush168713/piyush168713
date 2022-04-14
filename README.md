@@ -26,9 +26,9 @@
     <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>
  
-
+<!--
 <code> [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/piyush1687/) </code>
-
+-->
    
 <!---------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -1016,10 +1016,8 @@
 <!-- PROFILE VIEWS -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyush168713&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<div align="center">
- <a href="https://wakatime.com/@6fa6edb6-afcc-46bc-80e8-d4b3d1edecdb" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
+ 
+ [![wakatime](https://wakatime.com/badge/user/6fa6edb6-afcc-46bc-80e8-d4b3d1edecdb.svg)](https://wakatime.com/@6fa6edb6-afcc-46bc-80e8-d4b3d1edecdb/)
  
 <div align="center">
 
