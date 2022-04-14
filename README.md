@@ -1017,7 +1017,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyush168713&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
  <div align="center">
- [![wakatime](https://wakatime.com/badge/user/6fa6edb6-afcc-46bc-80e8-d4b3d1edecdb.svg)](https://wakatime.com/@6fa6edb6-afcc-46bc-80e8-d4b3d1edecdb)
+[![wakatime](https://wakatime.com/badge/user/6fa6edb6-afcc-46bc-80e8-d4b3d1edecdb.svg)](https://wakatime.com/@6fa6edb6-afcc-46bc-80e8-d4b3d1edecdb)
  
 <div align="center">
 
