@@ -1016,6 +1016,9 @@
 <!-- PROFILE VIEWS -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyush168713&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
+ <div align="center">
+ [![wakatime](https://wakatime.com/badge/user/939457b0-41b0-4830-8244-95c652fadddb.svg)](https://wakatime.com/@6fa6edb6-afcc-46bc-80e8-d4b3d1edecdb)
+ 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
