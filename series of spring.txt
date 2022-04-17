@@ -64,4 +64,5 @@ THYMELEAF
 50. thymeleafdemo-employees-list
 
 thymelead CRUD Project
-51. thymeleafdemo-employees-list-db
+51. thymeleafdemo-employees-list-db     (copy of thymeleafdemo-employees-list)
+52. thymeleafdemo-employees-add     (copy of thymeleafdemo-employees-list-db)
