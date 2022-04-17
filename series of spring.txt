@@ -1,0 +1,57 @@
+0. spring-mvc-demo-fir
+1. spring-demo
+2. spring-demo-annotation
+3. spring-mvc-demos
+4. hibernate-tutorial
+4_1. hibernate-practice
+5. hb-01-one-to-one-uni
+6. hb-02-one-to-one-bi
+7. hb-03-one-to-many
+8. hb-eager-vs-lazy-demo
+9. hb-04-one-to-many-uni
+10. hb-05-many-to-many
+11. web-customer-tracker
+12. spring-demo-aop (copy of spring-demo-annotation)
+13. spring-demo-aop-pointcut-declaration (copy of spring-demo-aop)
+14. spring-demo-aop-pointcut-declaration-combo (copy of spring-demo-aop-pointcut-declaration)
+15. spring-demo-aop-pointcut-order-aspects (copy of spring-demo-aop-pointcut-declaration-combo)
+16. spring-demo-aop-read-joinpoint (copy of spring-demo-aop-pointcut-order-aspects)
+17. spring-demo-aop-z-after-returning (copy of spring-demo-aop-read-joinpoint)
+18. spring-demo-aop-z-after-throwing (copy of spring-demo-aop-z-after-returning)
+19. spring-demo-aop-zz-after-finally (copy of spring-demo-aop-z-after-throwing)
+20. spring-demo-aop-zz-around (copy of spring-demo-aop-zz-after-finally)
+21. spring-demo-aop-zzz-around-handle-exception (copy of spring-demo-aop-zz-around)
+22. web-customer-tracker-aop (copy of web-customer-tracker)
+
+Maven - 
+23. 
+24. mycoolwebapp
+25. spring-security
+26. spring-security-demo-02-basic-security   (copy of spring-security)
+27. spring-security-demo-03-customer-login-form
+28. spring-security-demo-04-bootstrap-login-form
+29. spring-security-demo-06-csrf
+30. spring-security-demo-07-user-roles
+31. spring-security-demo-08-jdbc-plaintext
+32. spring-security-demo-09-jdbc-bcrypt
+33. jackson-databinding-json-demo
+34. spring-rest-demo
+35. spring-crm-rest
+- (crm-web-app-rest-client-demo)
+
+SPRING BOOT -
+36. 01-spring-boot-demo
+37. 02-dev-tools-demo
+38. 03-actuator-demo
+39. 04-command-line-demo
+40. 05-properties-demo
+
+(DAO Techniques - 1. Native Hibernate API,  2. Standard JPA API,   3. Spring Data JPA
+41. 21-hibernate-with-service-demo  - In this project we used Native Hibernate API mtd
+42. 22-jpa-cruddemo   (copy of 21-hibernate-with-service-demo)    - In this project we'll use Standard JPA API mtd
+43. 23-spring-data-jpa-cruddemo (copy of 22-jpa-cruddemo) - In this project we'll use of Spring Data JPA
+44. 24-spring-data-rest-cruddemo (copy of 23-spring-data-jpa-cruddemo)  -In this project we'll use of Spring Data REST
+
+
+PROJECTS
+45. spring-crm-security-project
