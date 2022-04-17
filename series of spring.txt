@@ -62,3 +62,6 @@ PROJECTS
 THYMELEAF
 49. thymeleafdemo-helloworld
 50. thymeleafdemo-employees-list
+
+thymelead CRUD Project
+51. thymeleafdemo-employees-list-db
