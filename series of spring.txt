@@ -55,3 +55,6 @@ SPRING BOOT -
 
 PROJECTS
 45. spring-crm-security-project
+46. spring-crm-security-project-search
+47. spring-crm-rest-project
+48. spring-crm-rest-security-project
