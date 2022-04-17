@@ -58,3 +58,7 @@ PROJECTS
 46. spring-crm-security-project-search
 47. spring-crm-rest-project
 48. spring-crm-rest-security-project
+
+THYMELEAF
+49. thymeleafdemo-helloworld
+50. thymeleafdemo-employees-list
