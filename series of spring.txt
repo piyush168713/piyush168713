@@ -71,4 +71,5 @@ thymelead CRUD Project
 55. thymeleafdemo-employees-crm-project    (Final crm project)
 56. thymeleafdemo-employees-crm-security-project    (Final crm-security project)    luv2code code 
 57. thymeleafdemo-employees-crm-jdbc-authentication   (crm-security project)  (own code)   (some error)
+58. thymeleafdemo-spring-security-user-registration-custom-user-details-spring-boot Project
 
