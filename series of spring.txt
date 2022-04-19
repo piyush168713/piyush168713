@@ -68,6 +68,7 @@ thymelead CRUD Project
 52. thymeleafdemo-employees-add     (copy of thymeleafdemo-employees-list-db)
 53. thymeleafdemo-employees-update     (copy of thymeleafdemo-employees-add)
 54. thymeleafdemo-employees-delete     (copy of thymeleafdemo-employees-update)
-55. thymeleafdemo-crm-employees-prpject    (Final crm project)
-56. thymeleafdemo-emoployees-crm-security-project    (Final crm-security project)
+55. thymeleafdemo-employees-crm-project    (Final crm project)
+56. thymeleafdemo-emoployees-crm-security-project    (Final crm-security project)    luv2code code 
+57. thymeleafdemo-employees-crm-jdbc-authentication   (crm-security project)  (own code)   (some error)
 
