@@ -26,6 +26,35 @@
     <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>
  
+ 
+ 
+ 
+ 
+  <h2 align="left" id="#piyush168713">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+ 
+<img src="https://www.techbaz.org/Course/img/c-logo.png" alt="c" height="30"> &nbsp; &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="30"> &nbsp; &nbsp;
+ <img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" height="30"> &nbsp; &nbsp;
+<img src="spring2.png" alt="spring" height="30"> &nbsp; &nbsp; 
+<img src="hibernate.png" alt="hibernate" height="30"> &nbsp; &nbsp;
+<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="intellij" height="30"> &nbsp; &nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" height="25">&nbsp; &nbsp;
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <!--
 <code> [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/piyush1687/) </code>
 -->
@@ -269,10 +298,10 @@
   
  
  
-
+<!--
  <h2 align="left" id="#piyush168713">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that I like to work with.  -->
  <!--
 <table align="center">
   <tr>
@@ -450,13 +479,13 @@
 -->
 
   <!--### Check Out the Languages and tech I know:-->
+<!--
+  ## Languages <a target="_blank"><img src="svg/dev/languages/lang.jpg" height="25px" style="max-width:100%;"> -->
 
-  ## Languages <a target="_blank"><img src="svg/dev/languages/lang.jpg" height="25px" style="max-width:100%;">
-
- <!-- <img src="svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top margin:0.0000000000000001px 0.0000000000000001px">  -->
+ <!-- <img src="svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top margin:0.0000000000000001px 0.0000000000000001px">  
   <img src="svg/dev/languages/csharp.svg" alt="C" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">&nbsp; &nbsp; 
   <img src="https://www.tinkercad.com/favicon.ico" height="30"> &nbsp; &nbsp;  <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px" height="35"> 
-
+-->
 
 <!-- ---------------------------------
 
