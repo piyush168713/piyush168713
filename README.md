@@ -506,8 +506,7 @@
 > Take a Look... 😁
 - [CRM Project using Spring Boot and Thymeleaf](https://github.com/piyush168713/thymeleafdemo-employees-crm-security-project.git)
 - [Spring CRM REST Security Project](https://github.com/piyush168713/spring-crm-rest-security-project.git)
-- [mini customer relationship management project using Spring MVC](https://github.com/piyush168713/web-customer-tracker.git)
-- [Coloured-Badges](https://github.com/piyush168713/ColoredBadges.git)
+- [Personal Portfolio](https://piyush168713.github.io/Frontend-Masters/Getting%20Started%20with%20CSS/Basics/index.html)
 - contributed on [#846](https://github.com/TheAlgorithms/C/pull/846)
 - Contributed on [#1559](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1559)
 - Contributed on [#6](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/pull/6) 
