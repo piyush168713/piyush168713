@@ -5,7 +5,7 @@
     <em>Hey</em> <img src="svg/Hi.gif" width="29px">, <em>I'm Piyush</em>
 </h1>
 
-[Resume](https://github.com/piyush168713/piyush168713/blob/main/Resume.pdf)
+
 
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
     
@@ -506,6 +506,7 @@
 ## My🌟BEST🌟 Works:
 
 > Take a Look... 😁
+- [Resume](https://github.com/piyush168713/piyush168713/blob/main/Resume.pdf)
 - [CRM Project using Spring Boot and Thymeleaf](https://github.com/piyush168713/thymeleafdemo-employees-crm-security-project.git)
 - [Spring CRM REST Security Project](https://github.com/piyush168713/spring-crm-rest-security-project.git)
 - [Personal Portfolio](https://piyush168713.github.io/Frontend-Masters/Getting%20Started%20with%20CSS/Basics/index.html)
