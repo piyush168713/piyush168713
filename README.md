@@ -504,9 +504,9 @@
 ## My🌟BEST🌟 Works:
 
 > Take a Look... 😁
-- [Personal-Portfolio](https://github.com/piyush168713/Personal-Portfolio.git)
-- [Birthday](https://github.com/piyush168713/Happy-birthday-1.git)
-- [C++ Tutorials](https://github.com/piyush168713/cpp-tutorials.git)
+- [CRM Project using Spring Boot and Thymeleaf](https://github.com/piyush168713/thymeleafdemo-employees-crm-security-project.git)
+- [spring-crm-rest-security-project](https://github.com/piyush168713/spring-crm-rest-security-project.git)
+- [mini customer relationship management project](https://github.com/piyush168713/web-customer-tracker.git)
 - [Coloured-Badges](https://github.com/piyush168713/ColoredBadges.git)
 - contributed on [#846](https://github.com/TheAlgorithms/C/pull/846)
 - Contributed on [#1559](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1559)
