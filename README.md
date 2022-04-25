@@ -5,9 +5,7 @@
     <em>Hey</em> <img src="svg/Hi.gif" width="29px">, <em>I'm Piyush</em>
 </h1>
 
-<a href="resume.pdf" align="center">
- <h2>Resume</h2>
- <a>
+[Resume](http://www.github.com/piyush168713/piyush168713/Resume.pdf)
 
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
     
