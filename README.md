@@ -6,6 +6,7 @@
 </h1>
 
 <a href="resume.pdf" align="center">
+ <h2>Resume</h2>
  <a>
 
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
