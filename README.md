@@ -20,7 +20,7 @@
 <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
 </a>&nbsp; &nbsp; -->  <a href="mailto:kumarpiyush25777@gmail.com">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>&nbsp; &nbsp; <a href="https://twitter.com/Piyush168713/">
+  </a>&nbsp; &nbsp; <a href="https://twitter.com/Py20_os/">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>&nbsp; &nbsp;  <a href="https://t.me/Piyush168713">
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
