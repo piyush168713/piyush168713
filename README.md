@@ -492,6 +492,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 
 <!--### Pass
+- [Resume](https://github.com/piyush168713/piyush168713/blob/main/Resume.pdf)
 -->
 
 <img align="right" height="250" width="375" alt="" src="svg/comp.gif"/>
@@ -499,7 +500,7 @@
 ## My🌟BEST🌟 Works:
 
 > Take a Look... 😁
-- [Resume](https://github.com/piyush168713/piyush168713/blob/main/Resume.pdf)
+- [Resume](https://drive.google.com/file/d/1eMBl05TCNYjz64kpKg5Yq8u-Xn2mDgTN/view?usp=sharing)
 - [CRM Project using Spring Boot and Thymeleaf](https://github.com/piyush168713/thymeleafdemo-employees-crm-security-project.git)
 - [Spring CRM REST Security Project](https://github.com/piyush168713/spring-crm-rest-security-project.git)
 - [Personal Portfolio](https://piyush168713.github.io/Frontend-Masters/Getting%20Started%20with%20CSS/Basics/index.html)
