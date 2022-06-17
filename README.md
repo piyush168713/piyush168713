@@ -4,7 +4,6 @@
     <em>Hey</em> <img src="svg/Hi.gif" height="37px" width="30px">, <em>I'm Piyush</em>
 </h1>
 
-
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
     
  <!--
