@@ -55,7 +55,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 
 <!--### Pass
-- [Resume](https://github.com/piyush168713/piyush168713/blob/main/Resume.pdf)
+- [Resume](https://drive.google.com/file/d/1qY7vGH_BAo3hO8JLDDDHT8ZR5JQ-9Uyx/view?usp=sharing)
 -->
 
 <img align="right" height="250" width="375" alt="" src="svg/comp.gif"/>
