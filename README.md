@@ -8,13 +8,13 @@
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
     
  <!--
-<a href="https://www.hackerrank.com/piyush168713">
+<a href="#">
     <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px"></a>&nbsp; &nbsp;  -->
  <a href="https://www.linkedin.com/in/piyush-kumar-28958b200">  
  <img src="svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:6px 4px">
-</a><!--&nbsp; &nbsp;  <a href="https://www.instagram.com/piyushh_xml/">
+</a><!--&nbsp; &nbsp;  <a href="#">
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-</a>  &nbsp; &nbsp;  <a href="https://wa.link/5m7el2">
+</a>  &nbsp; &nbsp;  <a href="#">
 <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
 </a>&nbsp; &nbsp; -->  <a href="mailto:kumarpiyush25777@gmail.com">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
