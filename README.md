@@ -64,7 +64,7 @@
 ## My🌟BEST🌟 Works:
 
 > Take a Look... 😁
-- [Resume](https://drive.google.com/file/d/1qY7vGH_BAo3hO8JLDDDHT8ZR5JQ-9Uyx/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1phhMC8wG_lvYqg4YNn4yv449JukU9ZW4/view?usp=sharing)
 - [CRM Project using Spring Boot and Thymeleaf](https://github.com/piyush168713/thymeleafdemo-employees-crm-security-project.git)
 - [Spring CRM REST Security Project](https://github.com/piyush168713/spring-crm-rest-security-project.git)
 - [Personal Portfolio](https://piyush168713.github.io/Frontend-Masters/Getting%20Started%20with%20CSS/Basics/index.html)
