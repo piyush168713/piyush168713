@@ -27,7 +27,7 @@
   </a>&nbsp; &nbsp;  <a href="https://stackoverflow.com/users/16583145/piyush-kumar">
     <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>&nbsp; &nbsp;  <a href="#">
-    <img src="http://levelupcollege.com/wp-content/uploads/2021/10/coding-ninjas-logo-white.png" alt="CodeStudio" style="vertical-align:top; margin:6px 4px">
+    <img src="https://www.codingninjas.com/landing/wp-content/uploads/2021/10/New-Logo-03-1-1024x358.png" alt="CodeStudio" height="25px" style="vertical-align:top; margin:6px 4px">
   </a>
  
  
