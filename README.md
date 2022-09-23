@@ -26,6 +26,8 @@
     <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
   </a>&nbsp; &nbsp;  <a href="https://stackoverflow.com/users/16583145/piyush-kumar">
     <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+  </a>&nbsp; &nbsp;  <a href="#">
+    <img src="http://levelupcollege.com/wp-content/uploads/2021/10/coding-ninjas-logo-white.png" alt="CodeStudio" style="vertical-align:top; margin:6px 4px">
   </a>
  
  
