@@ -1,7 +1,7 @@
  <!-- piyush168713 is a special repository: its README.md will appear on your profile! -->
 
 <h1 align="center">
-    <em>Hey</em> <a href="https://cumailin-my.sharepoint.com/:o:/g/personal/20bcs9107_cuchd_in/EnCGlsX9qVhDl6QtPSlqWJQBR74fSjXXux0OrKO1corYfw?e=5%3A6qtnzA&at=9" img src="svg/Hi.gif" height="37px" width="30px">, <em>I'm Piyush</em>
+    <em>Hey</em> <a href="https://cumailin-my.sharepoint.com/:o:/g/personal/20bcs9107_cuchd_in/EnCGlsX9qVhDl6QtPSlqWJQBR74fSjXXux0OrKO1corYfw?e=5%3A6qtnzA&at=9"> <img src="svg/Hi.gif" height="37px" width="30px">, <em>I'm Piyush</em>
 </h1>
 
 ## Connect With Me <a target="_blank"><img src="svg/Handshake.gif" height="32px" style="max-width:100%;">
