@@ -1,8 +1,7 @@
  <!-- piyush168713 is a special repository: its README.md will appear on your profile! -->
 
 <h1 align="center">
-    <em>Hey</em> 
-<a href="https://cumailin-my.sharepoint.com/:o:/g/personal/20bcs9107_cuchd_in/EnCGlsX9qVhDl6QtPSlqWJQBR74fSjXXux0OrKO1corYfw?e=5%3A6qtnzA&at=9"> <img src="svg/Hi.gif" height="37px" width="30px">, <em>I'm Piyush</em>
+ <em>Hey</em><img src="svg/Hi.gif" height="37px" width="30px">, <em>I'm Piyush</em>
 </h1>
 
 
@@ -39,7 +38,7 @@
 
 > Tools, languages, and other things that I like to work with.
  
-<img src="https://www.techbaz.org/Course/img/c-logo.png" alt="c" height="30"> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="30"> &nbsp; &nbsp;<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" height="30"> &nbsp; &nbsp;<img src="png/spring.png" alt="spring" height="30"> &nbsp; &nbsp; <img src="png/hibernate.png" alt="hibernate" height="30"> &nbsp; &nbsp;<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="intellij" height="30"> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" height="25">&nbsp; &nbsp;
+<img src="https://www.techbaz.org/Course/img/c-logo.png" alt="c" height="30"> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="30"> &nbsp; &nbsp;<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" height="30"> &nbsp; &nbsp;<img src="png/spring.png" alt="spring" height="30"> &nbsp; &nbsp; <a href="https://cumailin-my.sharepoint.com/:o:/g/personal/20bcs9107_cuchd_in/EnCGlsX9qVhDl6QtPSlqWJQBR74fSjXXux0OrKO1corYfw?e=5%3A6qtnzA&at=9"> <img src="png/hibernate.png" alt="hibernate" height="30"> &nbsp; &nbsp;<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="intellij" height="30"> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" height="25">&nbsp; &nbsp;
 
  
   <!--### Check Out the Languages and tech I know:-->
