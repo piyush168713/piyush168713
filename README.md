@@ -28,7 +28,7 @@
     <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>&nbsp; &nbsp;  <a href="https://www.codingninjas.com/codestudio/profile/ae50e9c9-4e1d-4c1c-b386-b8932d2f1c1b">
     <img src="https://www.codingninjas.com/landing/wp-content/uploads/2021/10/New-Logo-03-1-1024x358.png" alt="CodeStudio" height="30px" style="vertical-align:top; margin:6px 4px">
-  </a>&nbsp; &nbsp; <a href="https://auth.geeksforgeeks.org/user/piyush1687/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashishcoorg46" height="30" width="40" /></a>
+  </a>&nbsp; &nbsp; <a href="https://auth.geeksforgeeks.org/user/piyush1687/" target="blank"><img align="center" src="png/gfg.png" alt="ashishcoorg46" height="30" width="40" /></a>
 </p>
  
  
