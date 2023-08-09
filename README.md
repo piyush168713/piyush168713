@@ -606,7 +606,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+<!--![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)-->
 <img src="svg/check-it-out.svg" alt="welcome" style="vertical-align:top; margin:6px 4px"><br>
 <img src="svg/welcome-contributors.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
 <a href="https://cumailin-my.sharepoint.com/:o:/g/personal/20bcs9107_cuchd_in/EnCGlsX9qVhDl6QtPSlqWJQBR74fSjXXux0OrKO1corYfw?e=5%3A6qtnzA&at=9"><img src="svg/open-source.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
