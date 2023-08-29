@@ -67,7 +67,7 @@
 
 > Take a Look... 😁
 <!--- [Resume](https://drive.google.com/file/d/1hbTz1AO7J_ur9mIDjoWfB9ZbreErA2v0/view?usp=drive_link) --->
-- [Resume](https://drive.google.com/file/d/1CGmiThTwW8gNOWIPpTHJdWp6_4Nb4oqI/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1Th0QMJ1LiYB3EIl1i9jMs18gfHDReg52/view?usp=drive_link)
 - [CRM Project using Spring Boot and Thymeleaf](https://github.com/piyush168713/thymeleafdemo-employees-crm-security-project.git)
 - [Spring CRM REST Security Project](https://github.com/piyush168713/spring-crm-rest-security-project.git)
 - [College Management Application using Spring Boot](https://github.com/piyush168713/College-Management-Application-using-Spring-Boot.git)
