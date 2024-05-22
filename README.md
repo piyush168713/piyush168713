@@ -29,7 +29,7 @@
  
  
  
- 
+ <!--
  
 <h2 align="left" id="#piyush168713">Favorite Tech</h2>
 
@@ -77,7 +77,7 @@
   <a href="#">
     <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
   </a> 
-
+-->
 
 <img align="right" height="250" width="375" alt="" src="svg/comp.gif"/>
 
