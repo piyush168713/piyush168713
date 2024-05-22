@@ -39,7 +39,8 @@
 > Tools, languages, and other things that I like to work with.
  
 <!--<img src="https://www.techbaz.org/Course/img/c-logo.png" alt="c" height="30"> &nbsp; &nbsp;-->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="30"> &nbsp; &nbsp;<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" height="30"> &nbsp; &nbsp;<img src="png/spring.png" alt="spring" height="30"> &nbsp; &nbsp; <img src="png/hibernate.png" alt="hibernate" height="30"> &nbsp; &nbsp;<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="intellij" height="30"> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" height="25">&nbsp; &nbsp;
+<img src="svg/dev/languages/csharp.svg" alt="C" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="30"> &nbsp; &nbsp;<img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" height="30"> &nbsp; &nbsp;<img src="png/spring.png" alt="spring" height="30"> &nbsp; &nbsp; <img src="png/hibernate.png" alt="hibernate" height="30"> &nbsp; &nbsp;<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="intellij" height="30"> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" height="25">&nbsp; &nbsp;
 
  
   <!--### Check Out the Languages and tech I know:-->
@@ -68,10 +69,11 @@
 
 > Take a Look... 😁
 <!--- [Resume](https://drive.google.com/file/d/1hbTz1AO7J_ur9mIDjoWfB9ZbreErA2v0/view?usp=drive_link) --->
-- [Resume](https://drive.google.com/file/d/1IEW4Z03-iSQ0hTVAwf0MPOXQ5SK7Ae_N/view?usp=drive_link)
+<!--- [Resume](https://drive.google.com/file/d/1IEW4Z03-iSQ0hTVAwf0MPOXQ5SK7Ae_N/view?usp=drive_link) -->
 - [CRM Project using Spring Boot and Thymeleaf](https://github.com/piyush168713/thymeleafdemo-employees-crm-security-project.git)
-- [Spring CRM REST Security Project](https://github.com/piyush168713/spring-crm-rest-security-project.git)
-- [College Management Application using Spring Boot](https://github.com/piyush168713/College-Management-Application-using-Spring-Boot.git)
+- [E-Commerce Website](https://github.com/piyush168713/spring-boot-ecommerce-backend-project)
+- [CI/CD Pipelines using Jenkins](https://gitlab.com/piyush168713/java-maven-app/-/tree/ec2-aws-1?ref_type=heads)
+- [DevOps on AWS](https://gitlab.com/piyush168713/java-maven-app/-/tree/jenkins-jobs?ref_type=heads)
 - contributed on [#846](https://github.com/TheAlgorithms/C/pull/846)
 - Contributed on [#1559](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1559)
 - Contributed on [#6](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/pull/6) 
@@ -81,10 +83,10 @@
 
 
 ## Recents- 
-- 👨🏽‍💻 I'm currently learning new stuffs.
-- 🧐 trying to learn every new technology
-- 🥅 2022 Goals: Contribute to more projects and expand my knowledge
-- 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>  
+- 🌱 I’m currently **learning, conquering challenges, and embracing growth every step of the way!**
+- 🍀 [Linktree](https://linktr.ee/chiragyadav916)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1IEW4Z03-iSQ0hTVAwf0MPOXQ5SK7Ae_N/view?usp=drive_link)
+- 🥅 2024 Goals: Contribute to more projects and expand my knowledge 
  - 😄 Pronouns: He/Him
 <!--- :mountain_snow: Pahad ❣️:heavy_heart_exclamation:-->
 
