@@ -84,7 +84,7 @@
 
 ## Recents- 
 - 🌱 I’m currently **learning, conquering challenges, and embracing growth every step of the way!**
-- 🍀 [Linktree](https://linktr.ee/chiragyadav916)
+- 🍀 [Linktree](https://linktr.ee/piyush1687)
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1IEW4Z03-iSQ0hTVAwf0MPOXQ5SK7Ae_N/view?usp=drive_link)
 - 🥅 2024 Goals: Contribute to more projects and expand my knowledge 
  - 😄 Pronouns: He/Him
