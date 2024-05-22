@@ -105,6 +105,10 @@
 
 
 ## Stats 📊
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush168713&show_icons=true&theme=radical&title_color=a910c4&locale=en&layout=compact" alt="piyush168713" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush168713&show_icons=true&theme=radical&title_color=a910c4&cache_seconds=0&locale=en" alt="piyush168713" /></p>
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=highcontrast&hide_border=true)
 
 
