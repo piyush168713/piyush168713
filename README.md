@@ -93,7 +93,7 @@
 - Contributed on [#6](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/pull/6) 
 
 ## Certifications
-<img src="https://images.credly.com/images/5ca9d441-7853-4c6c-aa3a-df22e2db6638/cka_from_cncfsite__281_29.png" alt="cka" height="120"> &nbsp; &nbsp;
+<a href="https://www.credly.com/badges/5ca9d441-7853-4c6c-aa3a-df22e2db6638/public_url"><img src="png/cka.png" alt="cka" height="120"> &nbsp; &nbsp;
 
 
 ## Recents- 
