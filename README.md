@@ -112,10 +112,6 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=highcontrast&hide_border=true)
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ca9d441-7853-4c6c-aa3a-df22e2db6638" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
-
 
 <!--
     <a href="#">
