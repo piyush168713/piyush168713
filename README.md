@@ -22,24 +22,11 @@
 ## Recents- 
 - 🌱 I’m currently **learning, conquering challenges, and embracing growth every step of the way!**
 - 🍀 [Linktree](https://linktr.ee/piyush1687)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1N6nCxfWFt5PwGnTfXd3feqMNXHsZ3zAQ/view?usp=sharing)
-- 🥅 2024 Goals: Contribute to more projects and expand my knowledge 
+- 📄 Know about my experiences: [Resume]()
+- 🥅 2026 Goals: Contribute to more projects and expand my knowledge 
  - 😄 Pronouns: He/Him
 
 
-
-
-## Stats 📊
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush168713&show_icons=true&theme=radical&title_color=a910c4&locale=en&layout=compact" alt="piyush168713" /></p>
-
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyush168713&theme=highcontrast&hide_border=true)
-
----------------------------------------------------------------------------------------------------------------------------
-
-<img src="svg/check-it-out.svg" alt="welcome" style="vertical-align:top; margin:6px 4px"><br>
-<img src="svg/welcome-contributors.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
-<a href="https://cumailin-my.sharepoint.com/:o:/g/personal/20bcs9107_cuchd_in/EnCGlsX9qVhDl6QtPSlqWJQBR74fSjXXux0OrKO1corYfw?e=5%3A6qtnzA&at=9"><img src="svg/open-source.svg" alt="welcome" style="vertical-align:top; margin:6px 4px">
 <!-- PROFILE VIEWS -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyush168713&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
