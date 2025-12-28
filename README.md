@@ -13,22 +13,7 @@
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   
 
- 
- 
- 
 
-<img align="right" height="250" width="375" alt="" src="svg/comp.gif"/>
-
-## My🌟BEST🌟 Works:
-
-> Take a Look... 😁
-- [CRM Project using Spring Boot and Thymeleaf](https://github.com/piyush168713/thymeleafdemo-employees-crm-security-project.git)
-- [E-Commerce Website](https://github.com/piyush168713/spring-boot-ecommerce-backend-project)
-- [CI/CD Pipelines using Jenkins](https://gitlab.com/piyush168713/java-maven-app/-/tree/ec2-aws-1?ref_type=heads)
-- [DevOps on AWS](https://gitlab.com/piyush168713/java-maven-app/-/tree/jenkins-jobs?ref_type=heads)
-- contributed on [#846](https://github.com/TheAlgorithms/C/pull/846)
-- Contributed on [#1559](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1559)
-- Contributed on [#6](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/pull/6) 
 
 ## Certifications
 <a href="https://www.credly.com/badges/5ca9d441-7853-4c6c-aa3a-df22e2db6638/public_url"><img src="png/cka.png" alt="cka" height="120">
