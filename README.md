@@ -15,12 +15,9 @@
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>&nbsp; &nbsp;  <a href="https://t.me/Piyush168713">
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>&nbsp; &nbsp;  <a href="mailto:20BCS9107@cuchd.in">
+  </a>&nbsp; &nbsp;  <a href="mailto:kumarpiyush25777@gmail.com">
     <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
-  </a>&nbsp; &nbsp;  <a href="https://stackoverflow.com/users/16583145/piyush-kumar">
-    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
-  </a>&nbsp; &nbsp;  <a href="https://www.codingninjas.com/codestudio/profile/ae50e9c9-4e1d-4c1c-b386-b8932d2f1c1b">
-    <img src="https://www.codingninjas.com/landing/wp-content/uploads/2021/10/New-Logo-03-1-1024x358.png" alt="CodeStudio" height="30px" style="vertical-align:top; margin:6px 4px"></a>&nbsp; &nbsp; <a href="https://auth.geeksforgeeks.org/user/piyush1687/" target="blank"><img src="png/gfg.png" alt="piyush168713" height="25px" style="vertical-align:top; margin:6px 4px"></a> &nbsp; &nbsp; <a href="https://leetcode.com/piyush168713/" target="blank"><img src="png/leetc.png" alt="piyush168713" height="35px" style="vertical-align:top; margin:6px 4px"></a>
+  
 
  
  
